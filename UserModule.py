@@ -20,7 +20,7 @@ class User(Person):
     pass
 
 
-Ava = Person('Ava', 'ordookhani', 25)
+Ava = Person('Ava', 'Mohseni', 25)
 sara = User('sara', 'moradi', 24)
 
 # print(Ava.name)
